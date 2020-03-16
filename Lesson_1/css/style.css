@@ -1,0 +1,20 @@
+h2 {
+    color: steelblue;
+    font-size: 30px;
+}
+
+h1{
+    color: teal;
+    font-size: 50px;
+}
+
+#id_unico{
+    color: royalblue;
+    font-size: 40px;
+}
+
+.clase{
+    color: salmon;
+    font-size: 50px;
+
+}
